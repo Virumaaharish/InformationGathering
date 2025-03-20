@@ -1,5 +1,9 @@
 # InformationGathering
 Information Gathering Techiques
+# NAME: M VIRUMAA HARISH
+
+# REG NO: 212223230246
+
 
 # To perform information gathering techniques
 
