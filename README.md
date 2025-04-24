@@ -1,9 +1,6 @@
-# InformationGathering
+# EXP-02
+## INFORMATION GATHERING
 Information Gathering Techiques
-# NAME: M VIRUMAA HARISH
-
-# REG NO: 212223230246
-
 
 # To perform information gathering techniques
 
@@ -26,28 +23,36 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
-# Whois
-![image](https://github.com/user-attachments/assets/f4e7a2e4-314a-4b09-bfad-636f2bd6bc16)
-# Finding Hosting Company :
-![image](https://github.com/user-attachments/assets/3344b045-82b7-499c-9545-4f096e637e13)
-# History of the website :
-![image](https://github.com/user-attachments/assets/945afb6a-9c85-4d0d-b9db-db316e8451a6)
-# ping command :
-![image](https://github.com/user-attachments/assets/a52c5ccd-70c2-453d-b49c-d9016611fc1d)
-# whois :
-![image](https://github.com/user-attachments/assets/1dff0b2b-cafd-430b-8c7e-c6017a29d20e)
-# netcat :
-![image](https://github.com/user-attachments/assets/6c184914-7c8b-4358-9211-7aad796eea76)
-# nmap :
-![image](https://github.com/user-attachments/assets/3c05981b-8367-41f8-8b71-7a2f0d0f2cc3)
-# whatweb :
-![image](https://github.com/user-attachments/assets/fcdb21bd-b7ac-4ac9-aab3-6d9fc649d98e)
-# httprint :
-![image](https://github.com/user-attachments/assets/88f9a335-4f5e-49c8-a3e7-1cea59c5d633)
-# TCP traceroute :
-![image](https://github.com/user-attachments/assets/d7b66c49-7ff3-468d-b157-886ae609804e)
-# UDP traceroute :
-![image](https://github.com/user-attachments/assets/ab123ca7-1d9d-43f8-bffc-974d05029936)
+
+![image](https://github.com/user-attachments/assets/f6826459-e76b-479e-987e-043ce5588b5c)
+
+## Finding IP address:
+![image](https://github.com/user-attachments/assets/5d382dd1-0842-4471-8f27-44bb6db919b6)
+
+## Finding Hosting Company
+![image](https://github.com/user-attachments/assets/d923edcb-2283-49b0-9cbc-404b9ce475fe)
+
+## History of the Website
+![Screenshot 2025-03-07 133546](https://github.com/user-attachments/assets/e01e8db3-3670-4a99-894f-f39c289dd955)
+
+
+## Web server Fingerprint
+![image](https://github.com/user-attachments/assets/8e944f2a-d1c1-4345-9c67-880847f72d59)
+
+## nmap
+![image](https://github.com/user-attachments/assets/2d45942f-322c-4d75-a74b-9713bf743343)
+
+## Whatweb
+![image](https://github.com/user-attachments/assets/94faced7-3af9-4fed-853d-419396f26d76)
+
+## TCP Traceroute
+![image](https://github.com/user-attachments/assets/16af94dd-e038-4203-92e4-3295d57f4ac6)
+
+## UDP Traceroute
+![image](https://github.com/user-attachments/assets/2bd16e91-be60-4b67-9de9-2e206d402339)
+
+## ICMP Traceroute
+![image](https://github.com/user-attachments/assets/59c3d7ea-b1f0-4b46-a9b7-8aa1532c3ccd)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
