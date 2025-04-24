@@ -2,6 +2,10 @@
 ## INFORMATION GATHERING
 Information Gathering Techiques
 
+NAME : VIRUMAA HARISH M
+
+REG : 212223230246
+
 # To perform information gathering techniques
 
 # AIM:
